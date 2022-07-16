@@ -1,0 +1,64 @@
+html, body {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Nunito', sans-serif;
+    color: purple;
+}
+
+#home-buttons {
+    margin: auto;
+    display: block;
+}
+
+#button-space {
+    margin-right: 110px;
+    display: inline-block;
+}
+
+
+#mrec-title {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    align-content: center;
+}
+
+#movie-icon {
+    width: 10%;
+    visibility: visible;
+}
+
+#movie-title {
+    float: left;
+    text-align: center;
+    align-content: center;
+
+}
+
+
+
+
+#clear-float {
+    float:none;
+}
+
+
+
+
+
+
+#header {
+    background-image: url("images/home-banner.jpg");
+    background-repeat: no-repeat;
+    height: 200px;
+    background-size: cover;
+    background-position: center top;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    margin-bottom: 40px;
+
+}
